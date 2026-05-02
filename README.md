@@ -44,7 +44,15 @@ My current interests include:
 | Research Tooling | proof review, LaTeX, Codex/Claude skills, reproducible artifacts |
 
 ---
+## AI Usage
 
+<p align="center">
+  <a href="https://tokscale.ai/u/5Donghwan">
+    <img src="https://tokscale.ai/api/embed/5Donghwan/svg?theme=light&sort=tokens&compact=1" alt="Tokscale Stats" />
+  </a>
+</p>
+
+---
 ## Tech Stack
 
 <p>
